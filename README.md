@@ -1,8 +1,4 @@
 -  Hi, I’m @BilalHaiderRizvi
--  I’m a Software Developer 
--  I’m currently learning Java,Spring Boot
+-  I’m a DevOps Engineer at Miftah Software
+-  I’m currently learning Penetration Testing (Ethical Hacking)
 
-<!---
-BilalHaiderRizvi/BilalHaiderRizvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
