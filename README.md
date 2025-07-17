@@ -2,11 +2,11 @@
 - DevOps Engineer at Miftah Software
 - Penetration Testing (Ethical Hacking)
 
-- Skills
+- Skills - 
 Spring Boot · MongoDB · Networking · Git · Cloud Computing · Linux · Flutter.
 
-- Programming Languages
+- Programming Languages - 
 Python · Dart · Java (Programming Language).
 
-- In DevOps  
+- In DevOps - 
 Kubernetes · Jenkins · Amazon Web Services (AWS) · Shell Scripting · Ansible · Bash · Git · GitHub · Cloud Computing · Python (Programming Language) · Linux
