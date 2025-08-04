@@ -1,6 +1,6 @@
 - @BilalHaiderRizvi
 - DevOps Engineer at Miftah Software
-- Penetration Testing (Ethical Hacking)
+- Penetration Testing
 
 - Skills - 
 Spring Boot · MongoDB · Networking · Git · Cloud Computing · Linux · Flutter.
