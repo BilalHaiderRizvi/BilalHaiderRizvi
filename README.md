@@ -9,4 +9,4 @@ Spring Boot · MongoDB · Networking · Git · Cloud Computing · Linux · Flutt
 Python · Dart · Java (Programming Language).
 
 - In DevOps - 
-Kubernetes · Jenkins · Amazon Web Services (AWS) · Shell Scripting · Ansible · Bash · Git · GitHub · Cloud Computing · Python (Programming Language) · Linux
+Linux · Kubernetes · Jenkins · Amazon Web Services (AWS) · Shell Scripting · Ansible · Bash · Git · GitHub · Cloud Computing · Python (Programming Language).
