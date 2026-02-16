@@ -1,6 +1,6 @@
 - @BilalHaiderRizvi
 - DevOps Engineer at Miftah Software
-- Penetration Testing
+- Flutter App Dev
 
 - Skills - 
 Spring Boot · MongoDB · Networking · Git · Cloud Computing · Linux · Flutter.
