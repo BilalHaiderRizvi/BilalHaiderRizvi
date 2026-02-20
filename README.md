@@ -1,6 +1,6 @@
 - @BilalHaiderRizvi
 - DevOps Engineer at Miftah Software
-- Flutter App Dev - Firebase & Supabase
+- Flutter App/Web Dev - Firebase & Supabase
 
 - Skills - 
 Spring Boot · MongoDB · Networking · Git · Cloud Computing · Linux · Flutter.
